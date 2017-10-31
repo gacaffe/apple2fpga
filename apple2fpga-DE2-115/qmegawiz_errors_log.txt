@@ -1,0 +1,28 @@
+
+
+C:/Documents and Settings/USUARIO/Mis documentos/Google Drive/RETRO/apple2fpga-DE2-115/CLK28MPLL.vhd
+
+Nov 27 10AM:18:09>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Documents and Settings/USUARIO/Mis documentos/Google Drive/RETRO/apple2fpga-DE2-115/CLK28MPLL.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+C:/Documents and Settings/USUARIO/Mis documentos/Google Drive/RETRO/apple2fpga-DE2-115/CLK28MPLL.vhd
+
+Nov 27 10AM:18:58>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Documents and Settings/USUARIO/Mis documentos/Google Drive/RETRO/apple2fpga-DE2-115/CLK28MPLL.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+C:/Documents and Settings/USUARIO/Mis documentos/Google Drive/RETRO/apple2fpga-DE2-115/CLK28MPLL.vhd
+
+Nov 27 10AM:28:21>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Documents and Settings/USUARIO/Mis documentos/Google Drive/RETRO/apple2fpga-DE2-115/CLK28MPLL.cnxerr.
+
+Can't create the custom megafunction variation file(s)

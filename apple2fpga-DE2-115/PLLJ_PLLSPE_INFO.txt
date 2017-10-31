@@ -1,0 +1,5 @@
+PLL_Name	CLK28MPLL_DE2_115:pll|altpll:altpll_component|CLK28MPLL_DE2_115_altpll:auto_generated|pll1
+PLLJITTER	29
+PLLSPEmax	84
+PLLSPEmin	-53
+

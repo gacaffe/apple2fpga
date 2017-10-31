@@ -1,0 +1,173 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'apple2:core|timing_generator:timing|Q3'
+Slack : -6.163
+TNS   : -563.556
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : 2.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 20.331
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 62.157
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'apple2:core|timing_generator:timing|Q3'
+Slack : -2.761
+TNS   : -136.923
+
+Type  : Slow 1200mV 85C Model Hold 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -2.044
+TNS   : -40.957
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : -2.002
+TNS   : -103.005
+
+Type  : Slow 1200mV 85C Model Hold 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 67.603
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 2.592
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.684
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 17.565
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 35.383
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'apple2:core|timing_generator:timing|Q3'
+Slack : 99.750
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'apple2:core|timing_generator:timing|Q3'
+Slack : -5.745
+TNS   : -543.071
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : 2.303
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 21.555
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 62.962
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'apple2:core|timing_generator:timing|Q3'
+Slack : -2.381
+TNS   : -107.897
+
+Type  : Slow 1200mV 0C Model Hold 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -1.820
+TNS   : -33.426
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -1.690
+TNS   : -83.518
+
+Type  : Slow 1200mV 0C Model Hold 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 67.942
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 2.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.689
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 17.565
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 35.347
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'apple2:core|timing_generator:timing|Q3'
+Slack : 99.724
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'apple2:core|timing_generator:timing|Q3'
+Slack : -2.936
+TNS   : -259.939
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : 2.713
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 27.778
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 66.856
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'apple2:core|timing_generator:timing|Q3'
+Slack : -1.629
+TNS   : -109.203
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -1.234
+TNS   : -70.403
+
+Type  : Fast 1200mV 0C Model Hold 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -1.115
+TNS   : -34.297
+
+Type  : Fast 1200mV 0C Model Hold 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 69.408
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1.234
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.266
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 17.637
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 35.467
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'apple2:core|timing_generator:timing|Q3'
+Slack : 99.770
+TNS   : 0.000
+
+------------------------------------------------------------
