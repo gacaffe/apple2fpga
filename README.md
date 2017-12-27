@@ -1,6 +1,4 @@
 # apple2fpga
-Hi!
-
 Here you will find the DE2-115 implementation of the apple2fpga project from 
 http://www.cs.columbia.edu/~sedwards/apple2fpga/
 
